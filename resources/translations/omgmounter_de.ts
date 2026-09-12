@@ -70,7 +70,7 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="54"/>
         <source>&amp;About...</source>
-        <translation>Über</translation>
+        <translation>&amp;Über...</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="130"/>

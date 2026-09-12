@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<TS version="2.1" language="kk">
 <context>
     <name>DeviceListItem</name>
     <message>
         <location filename="../../src/devicelistitem.cpp" line="40"/>
         <source>Select image file</source>
-        <translation>Виберіть образ диска</translation>
+        <translation>Сурет файлын таңдау</translation>
     </message>
     <message>
         <location filename="../../src/devicelistitem.cpp" line="43"/>
         <source>Unmount current image</source>
-        <translation>Розмонтувати поточний образ</translation>
+        <translation>Ағымдағы бейнені тіркеуден босату</translation>
     </message>
 </context>
 <context>
@@ -19,78 +19,78 @@
     <message>
         <location filename="../../src/mainwindow.ui" line="55"/>
         <source>Device</source>
-        <translation>Пристрій</translation>
+        <translation>Құрылғы</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="60"/>
         <source>Image</source>
-        <translation>Образ</translation>
+        <translation>Бейне</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="83"/>
         <source>Add Device</source>
-        <translation>Додати пристрій</translation>
+        <translation>Құрылғыны қосу</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="90"/>
         <source>Remove Device</source>
-        <translation>Видалити пристрій</translation>
+        <translation>Құрылғыны өшіру</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="111"/>
         <source>Fi&amp;le</source>
-        <translation>Файл</translation>
+        <translation>Фай&amp;л</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="116"/>
         <source>His&amp;tory</source>
-        <translation>Історія</translation>
+        <translation>&amp;Тарих</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="121"/>
         <source>Setti&amp;ngs</source>
-        <translation>Налаштування</translation>
+        <translation>Ба&amp;птаулар</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="131"/>
         <location filename="../../src/mainwindow.cpp" line="47"/>
         <source>&amp;Quit</source>
-        <translation>Вихід</translation>
+        <translation>Ш&amp;ығу</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.ui" line="142"/>
         <source>Show in System Tray</source>
-        <translation>Показувати в системному треї</translation>
+        <translation>Жүйелік трейде көрсету</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="51"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>Кө&amp;мек</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="54"/>
         <source>&amp;About...</source>
-        <translation>&amp;Про...</translation>
+        <translation>Осы тур&amp;алы...</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="130"/>
         <source>CDEmu daemon is running.</source>
-        <translation>Сервіс CDEmu запущений.</translation>
+        <translation>CDEmu қызметі орындалуда.</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="132"/>
         <source>CDEmu daemon not running.</source>
-        <translation>Сервіс CDEmu не запущений.</translation>
+        <translation>CDEmu қызметі орындалып тұрған жоқ.</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="173"/>
         <source>Select an image file</source>
-        <translation>Виберіть образ диска</translation>
+        <translation>Бейне файлын таңдау</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="324"/>
         <source>Clear History</source>
-        <translation>Очистити історію</translation>
+        <translation>Тарихты тазарту</translation>
     </message>
 </context>
 <context>
@@ -98,32 +98,32 @@
     <message>
         <location filename="../../src/exception.cpp" line="27"/>
         <source>The selected virtual device is in use.</source>
-        <translation>Вибраний віртуальний пристій уже використовується.</translation>
+        <translation>Таңдалған виртуалды құрылғы қолданылуда.</translation>
     </message>
     <message>
         <location filename="../../src/exception.cpp" line="28"/>
         <source>The selected virtual device is not available.</source>
-        <translation>Вибраний віртуальний пристій недоступний.</translation>
+        <translation>Таңдалған виртуалды құрылғы қолжетімді емес.</translation>
     </message>
     <message>
         <location filename="../../src/exception.cpp" line="29"/>
         <source>All virtual devices are in use.</source>
-        <translation>Всі віртуальні пристрої уже використовуються.</translation>
+        <translation>Барлық виртуалды құрылғылар қолданылуда.</translation>
     </message>
     <message>
         <location filename="../../src/exception.cpp" line="30"/>
         <source>The file doesn&apos;t exist.</source>
-        <translation>Файл образа не існує.</translation>
+        <translation>Файл жоқ.</translation>
     </message>
     <message>
         <location filename="../../src/exception.cpp" line="31"/>
         <source>Unable to connect to the CDEmu daemon.</source>
-        <translation>Не вдається підключитися до севіса CDEmu.</translation>
+        <translation>CDEmu қызметіне қосылу мүмкін емес.</translation>
     </message>
     <message>
         <location filename="../../src/exception.cpp" line="32"/>
-        <source>An unknown error occurred.</source>
-        <translation>Виникла невідома помилка.</translation>
+        <source>An unknown error occured.</source>
+        <translation>Белгісіз қате орын алды.</translation>
     </message>
 </context>
 <context>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../../src/main.cpp" line="72"/>
         <source>Mount an image.</source>
-        <translation>Змонтувати образ.</translation>
+        <translation>Бейнені тіркеу.</translation>
     </message>
     <message>
         <location filename="../../src/main.cpp" line="72"/>
@@ -141,17 +141,17 @@
     <message>
         <location filename="../../src/main.cpp" line="75"/>
         <source>Unmount an image.</source>
-        <translation>Розмонтувати образ.</translation>
+        <translation>Бейнені тіркеуден босату.</translation>
     </message>
     <message>
         <location filename="../../src/main.cpp" line="75"/>
         <source>device number</source>
-        <translation>номер пристрою</translation>
+        <translation>құрылғы нөмірі</translation>
     </message>
     <message>
         <location filename="../../src/main.cpp" line="78"/>
         <source>Show information about devices.</source>
-        <translation>Показати інформацію про пристрої.</translation>
+        <translation>Құрылғылар туралы ақпаратты көрсету.</translation>
     </message>
 </context>
 <context>
@@ -159,27 +159,27 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="27"/>
         <source>Information</source>
-        <translation>Відомості</translation>
+        <translation>Ақпарат</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="76"/>
         <source>Thanks</source>
-        <translation>Подяки</translation>
+        <translation>Алғыстар</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="128"/>
         <source>License</source>
-        <translation>Ліцензія</translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="55"/>
         <source>Author</source>
-        <translation>Автор</translation>
+        <translation>Авторы</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation>Про застосунок</translation>
+        <translation>Осы туралы</translation>
     </message>
 </context>
 </TS>

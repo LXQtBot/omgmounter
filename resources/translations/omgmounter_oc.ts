@@ -159,7 +159,7 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="27"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacion</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="76"/>
@@ -169,17 +169,17 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="128"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licéncia</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="55"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>A prepaus</translation>
     </message>
 </context>
 </TS>
